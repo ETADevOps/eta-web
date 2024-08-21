@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-  baseURL: 'http://virtual-silo-432705-s7.uc.r.appspot.com/api/v1/', // API Base URL Path
+  baseURL: 'https://eta-web-v6x3ceztrq-uc.a.run.app/api/v1/', // API Base URL Path
   headers: { 'Content-Type': 'application/json' }
 });
 

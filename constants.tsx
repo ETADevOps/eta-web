@@ -1,1 +1,1 @@
-export const API_URL = 'http://virtual-silo-432705-s7.uc.r.appspot.com/api/v1/';
+export const API_URL = 'https://eta-web-v6x3ceztrq-uc.a.run.app/api/v1/';
